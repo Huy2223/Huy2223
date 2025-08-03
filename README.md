@@ -1,8 +1,13 @@
 # Hi there, I'm Huy 👋
 
 <div align="center">
-  <img src="" width="600" />
+  
+ ![bya](https://github.com/user-attachments/assets/5d9a27a4-a486-40f9-8fa3-2ed421332121)
+
+  
 </div>
+
+
 
 I'm a passionate developer on a continuous quest for self-improvement, both in code and in life. I'm driven by curiosity and the challenge of solving complex problems. Welcome to my little corner of the internet!
 
