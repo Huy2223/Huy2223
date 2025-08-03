@@ -28,17 +28,28 @@ I'm a passionate developer on a continuous quest for self-improvement, both in c
 </ul>
 
 ### 🔥 My Favorites
-<p align="center">
-<img src="https://github.com/user-attachments/assets/b359a713-c93d-451a-a931-4806db733776" width="150" height="100" alt="Dexter Morgan"/>
-  
-<img src="https://github.com/user-attachments/assets/93e21fd0-ae4e-49ca-a3fc-5575c73cbcba" width="150" alt="Ichigo Kurosaki from Bleach"/>
 
-<img src="https://github.com/user-attachments/assets/1fc11162-e120-4770-b818-38bc900b8e6a" width="150" alt="Jotaro Kujo from JoJo's Bizarre Adventure"/>
-</p>
-
+<table border="0" align="center">
+  <tr align="center">
+    <td>
+      <img src="https://github.com/user-attachments/assets/09216824-15a8-4ca5-bd1b-97e758264c49" width="180" alt="Dexter Banner"/>
+      <br />
+      <b>Dexter</b>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e7c028ce-4010-49bf-b32e-fba599413833" width="180" alt="Bleach Characters"/>
+      <br />
+      <b>Bleach</b>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/16ed8814-49f2-4915-a183-6bc286441736" width="180" alt="JoJo's Bizarre Adventure"/>
+      <br />
+      <b>JoJo's Bizarre Adventure</b>
+    </td>
+  </tr>
+</table>
  
 
-  
 </p>
 
 ### 🛠️ My Tech Stack & Tools
